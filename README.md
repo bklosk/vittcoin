@@ -1,2 +1,4 @@
 # vittcoin
-fake crypto for TLL students to trade on 
+
+A currency for students in The Levitt Lab
+Designed & built by Ben Klosky
